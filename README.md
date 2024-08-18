@@ -71,7 +71,7 @@ git clone https://github.com/SecretCompany777/SecretCamera.git
 cd SecretCamera
 ```
 ```bash
-chmod +x secret_camera.sh (optional)
+chmod +x secret_camera.sh
 ```
 ```bash
 bash setup
